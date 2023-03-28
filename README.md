@@ -10,7 +10,7 @@
 ![APM](https://img.shields.io/badge/Application%20Performance%20Monitoring(APM)-FF5733?style=for-the-badge&logoColor=white)
 ![DEM](https://img.shields.io/badge/Digital%20experience%20monitoring(DEM)-9C27B0?style=for-the-badge&logoColor=white)
 ![Infra Monitoring](https://img.shields.io/badge/Infrastructure%20Monitoring-3F51B5?style=for-the-badge&logoColor=white)
-![Network Monitoring](https://img.shields.io/badge/Network%20Monitoring-2196F3?style=for-the-badge&logoColor=white)
+![Network Monitoring](https://img.shields.io/badge/Network%20Performance%20Monitoring(NPM)-2196F3?style=for-the-badge&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/-Log%20Analytics-00BCD4?style=for-the-badge&logoColor=white)
 ![ITOM Event Management](https://img.shields.io/badge/-ITOM%20Event%20Management-4CAF50?style=for-the-badge&logoColor=white)
 
