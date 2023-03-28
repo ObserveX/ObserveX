@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Parthis1833/Parthis1833/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <h1 align="center">Hi there || नमस्ते  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -8,14 +5,7 @@
 <h3 align="center">
 </h3>
 
-<div> 
-
-  ![Snake animation](https://github.com/ObserveX/ObserveX/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-# 💫 About Me:
-🚀 Seasoned technology enthusiast boasting 9+ years of experience in the realm of Observability and Monitoring, excelling in areas such as Tool Implementation, Migration, Delivery, and Streamlined Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you're interested in discussing projects or collaborations!!
+Myself Praveen, and I am a Seasoned technology enthusiast with over 9 years of experience in the realm of Observability and Monitoring, excelling in areas such as Tool Implementation, Migration, Delivery, and Streamlined Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you're interested in discussing projects or collaborations!!
 
 
 ## 🌐 Socials:
