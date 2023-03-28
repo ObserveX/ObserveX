@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate technologist with 8+ years of experience in Observability & Monitoring, Tools Implementation, Migration, Delivery, and Operations. <br>📜 Certifications: SolarWinds SCP, Dynatrace, New Relic, Logic Monitor, AppDynamics, ServiceNow, Azure Fundamentals, ITIL v4 Foundation<br><br>Feel free to reach out if you're interested in discussing projects or collaborations!
+🚀 Passionate technologist with 8+ years of experience in Observability & Monitoring, Tools Implementation, Migration, Delivery, and Operations. <br><br>Feel free to reach out if you're interested in discussing projects or collaborations!
 
 
 ## 🌐 Socials:
@@ -40,7 +40,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+![](https://visitcount.itsvg.in/api?id=ObserveX&label=Profile%20Views&color=4&icon=5&pretty=false)
 ---
-[![](https://visitcount.itsvg.in/api?id=ObserveX&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
