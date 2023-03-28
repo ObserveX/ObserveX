@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate technologist with 8+ years of experience in Observability & Monitoring, Tools Implementation, Migration, Delivery, and Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you're interested in discussing projects or collaborations!!
+🚀 Seasoned technology enthusiast boasting 9+ years of experience in the realm of Observability and Monitoring, excelling in areas such as Tool Implementation, Migration, Delivery, and Streamlined Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you're interested in discussing projects or collaborations!!
 
 
 ## 🌐 Socials:
