@@ -6,10 +6,7 @@
 </h3>
 
 Myself Praveen, and I am a Seasoned technology enthusiast with over 9 years of experience in Observability and Monitoring, excelling in areas such as Tool Implementation, Migration, Delivery, and Streamlined Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you'd like to exchange ideas, discuss industry trends, or explore potential collaborations in the realm of Observability and Monitoring!"!!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveennaidu) 
+ 
 
 # 💻 Tech Stack:
 
@@ -38,6 +35,9 @@ Myself Praveen, and I am a Seasoned technology enthusiast with over 9 years of e
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveennaidu)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=observex&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
