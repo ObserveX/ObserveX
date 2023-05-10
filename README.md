@@ -23,6 +23,10 @@ Myself Praveen, and I am a Seasoned technology enthusiast with over 9 years of e
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-9E9E9E?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Logic Monitor](https://img.shields.io/badge/-Logic%20Monitor-607D8B?style=for-the-badge&logoColor=white)
 ![AppDynamics](https://img.shields.io/badge/-AppDynamics-3D5AFE?style=for-the-badge&logo=appdynamics&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+# Still Exploring....
 ![Splunk](https://img.shields.io/badge/-Splunk-AA00FF?style=for-the-badge&logo=splunk&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-448AFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logoColor=white)
@@ -33,8 +37,7 @@ Myself Praveen, and I am a Seasoned technology enthusiast with over 9 years of e
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D50000?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-2979FF?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveennaidu)
