@@ -5,7 +5,7 @@
 <h3 align="center">
 </h3>
 
-Myself Praveen, and I am a Seasoned technology enthusiast with over 9 years of experience in Observability and Monitoring, excelling in areas such as Monitoirng Tools Implementation, Migration, Delivery, and Streamlined Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you'd like to exchange ideas, discuss industry trends, or explore potential collaborations in the realm of Observability and Monitoring!!
+Myself Praveen, and I am a Seasoned technology enthusiast with over 11 years of experience in Observability and Monitoring, excelling in areas such as Monitoirng Tools Implementation, Migration, Delivery, and Streamlined Operations. <br><br>Feel free to reach out to me at npraveen1203@gmail.com if you'd like to exchange ideas, discuss industry trends, or explore potential collaborations in the realm of Observability and Monitoring!!
  
 
 # 💻 Tech Stack:
